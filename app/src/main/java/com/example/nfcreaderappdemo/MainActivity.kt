@@ -1,5 +1,4 @@
 package com.example.nfcreaderappdemo
-
 import android.nfc.NfcAdapter
 import android.nfc.Tag
 import android.nfc.tech.IsoDep
